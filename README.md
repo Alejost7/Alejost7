@@ -4,6 +4,7 @@
 
 ## About me
 
+I am a systems and computation Engineering student.
 <!--
 **Alejost7/Alejost7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
