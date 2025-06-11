@@ -1,21 +1,21 @@
-<div align="center">
-  <h1 align="center"> Hi I'm Alejandro 👋</h1> 
-</div>
 
-## About me
+# Hey I'm Alejandro!
 
-👍
-<!--
-**Alejost7/Alejost7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Systems and Computing Engineering with an emphasis in Data Engineering. As I progress through my academic journey, I'm constantly learning and growing as a developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alejost7&theme=dark)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejost7&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 🛠 Skills
+
+So far, I’ve built a solid foundation in: 
+- Python, C++, C
+- SQL and relational databases
+- Object-Oriented Programming (OOP)
+- Git and version control
+- Basic back-end development (Node.js, Express)
+- Basic front-end development
