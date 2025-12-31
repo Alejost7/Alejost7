@@ -1,7 +1,7 @@
 
 # Hey I'm Alejandro!
 
-I'm currently studying Systems and Computing Engineering with an emphasis in Data Engineering. As I progress through my academic journey, I'm constantly learning and growing as a developer.
+I'm currently studying Systems and Computing Engineering. As I progress through my academic journey, I'm constantly learning and growing as a developer.
 
 
 
