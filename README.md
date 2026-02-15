@@ -7,7 +7,6 @@ at SENA. Passionate about building full-stack applications and exploring
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alejost7&theme=dark)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejost7&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
