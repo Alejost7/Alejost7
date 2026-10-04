@@ -1,8 +1,7 @@
 
 # 👋 Hey, I'm Alejandro! 
 
-I'm a Computer Science student at Javeriana Cali and Software Development Associate 
-at SENA. Passionate about building full-stack applications and exploring
+I'm a Computer Science student at Javeriana Cali. Passionate about building full-stack applications and exploring
 
 ---
 
@@ -13,10 +12,9 @@ at SENA. Passionate about building full-stack applications and exploring
 ## 🛠 Skills
 
 - **Languages:** Python, C++, C, JavaScript, PHP
-- **Databases:** SQL & relational design
+- **Databases:** SQL & relational design, NoSQL
 - **Version Control:** Git & GitHub
-- **Back-End:** Node.js, Express, PHP
-- **Front-End:** React, Tailwindcss, basic HTML/CSS/JS
+- **Front-End:** React, Tailwindcss, HTML/CSS/JS
 - **Other Interests:** Workflow automation, system reliability
 
 ## 🌱 Currently Learning 
